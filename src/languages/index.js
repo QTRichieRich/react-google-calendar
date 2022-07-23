@@ -16,7 +16,7 @@ export const Languages = {
       "November",
       "December",
     ],
-    DAYS: ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+    DAYS: ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
   },
   ES: {
     MONTHS: [
@@ -33,7 +33,7 @@ export const Languages = {
       "Nombre",
       "Diciembre",
     ],
-    DAYS: ["Dom", "Lun", "Mar", "Mie", "Jue", "Vie", "Sab"],
+    DAYS: ["Lun", "Mar", "Mie", "Jue", "Vie", "Sab", "Dom"],
   },
   PT: {
     MONTHS: [
@@ -50,7 +50,7 @@ export const Languages = {
       "Nome",
       "Dezembro",
     ],
-    DAYS: ["Dom", "Seg", "Ter", "Qua", "Qui", "Sex", "Sáb"],
+    DAYS: ["Seg", "Ter", "Qua", "Qui", "Sex", "Sáb", "Dom"],
   },
   FR: {
     MONTHS: [
@@ -67,7 +67,7 @@ export const Languages = {
       "Nom",
       "Décembre",
     ],
-    DAYS: ["Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"],
+    DAYS: ["Lun", "Mar", "Mer", "Jeu", "Ven", "Sam", "Dim"],
   },
   SL: {
     MONTHS: [
@@ -84,6 +84,6 @@ export const Languages = {
       "November",
       "December",
     ],
-    DAYS: ["Ned", "Pon", "Tor", "Sre", "Čet", "Pet", "Sob"],
+    DAYS: ["Pon", "Tor", "Sre", "Čet", "Pet", "Sob", "Ned"],
   },
 }
